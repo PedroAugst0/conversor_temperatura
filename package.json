@@ -1,4 +1,5 @@
 {
+  "homepage": "https://pedroaugst0.github.io/conversor_temperatura/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
